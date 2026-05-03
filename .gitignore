@@ -1,4 +1,6 @@
-data/
+data/drift_reports/
+data/retraining_reports/
+data/checkpoints/
 models/
 __pycache__/
 *.pyc

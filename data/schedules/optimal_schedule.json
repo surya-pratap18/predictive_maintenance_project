@@ -1,0 +1,109 @@
+{
+  "generated_at": "2026-04-24T10:41:50.398093",
+  "horizon_days": 14,
+  "total_cost": 29000.0,
+  "solve_time_sec": 1.12,
+  "status": "Optimal",
+  "schedule": [
+    {
+      "equipment_id": "EQ-010",
+      "equipment_type": "Pump",
+      "criticality": "Medium",
+      "predicted_rul": 6,
+      "scheduled_day": 6,
+      "status": "\u2705 Scheduled",
+      "preventive_cost": 1000,
+      "failure_cost": 0
+    },
+    {
+      "equipment_id": "EQ-007",
+      "equipment_type": "Pump",
+      "criticality": "High",
+      "predicted_rul": 7,
+      "scheduled_day": 1,
+      "status": "\u2705 Scheduled",
+      "preventive_cost": 1000,
+      "failure_cost": 0
+    },
+    {
+      "equipment_id": "EQ-008",
+      "equipment_type": "Compressor",
+      "criticality": "High",
+      "predicted_rul": 26,
+      "scheduled_day": 9,
+      "status": "\u2705 Scheduled",
+      "preventive_cost": 2000,
+      "failure_cost": 0
+    },
+    {
+      "equipment_id": "EQ-006",
+      "equipment_type": "Turbine",
+      "criticality": "Medium",
+      "predicted_rul": 28,
+      "scheduled_day": 7,
+      "status": "\u2705 Scheduled",
+      "preventive_cost": 3000,
+      "failure_cost": 0
+    },
+    {
+      "equipment_id": "EQ-009",
+      "equipment_type": "Pump",
+      "criticality": "Medium",
+      "predicted_rul": 57,
+      "scheduled_day": 8,
+      "status": "\u2705 Scheduled",
+      "preventive_cost": 1000,
+      "failure_cost": 0
+    },
+    {
+      "equipment_id": "EQ-001",
+      "equipment_type": "Pump",
+      "criticality": "Low",
+      "predicted_rul": 79,
+      "scheduled_day": 3,
+      "status": "\u2705 Scheduled",
+      "preventive_cost": 1000,
+      "failure_cost": 0
+    },
+    {
+      "equipment_id": "EQ-002",
+      "equipment_type": "Turbine",
+      "criticality": "Low",
+      "predicted_rul": 79,
+      "scheduled_day": 3,
+      "status": "\u2705 Scheduled",
+      "preventive_cost": 3000,
+      "failure_cost": 0
+    },
+    {
+      "equipment_id": "EQ-003",
+      "equipment_type": "Pump",
+      "criticality": "High",
+      "predicted_rul": 92,
+      "scheduled_day": 2,
+      "status": "\u2705 Scheduled",
+      "preventive_cost": 1000,
+      "failure_cost": 0
+    },
+    {
+      "equipment_id": "EQ-004",
+      "equipment_type": "Pump",
+      "criticality": "Low",
+      "predicted_rul": 104,
+      "scheduled_day": 13,
+      "status": "\u2705 Scheduled",
+      "preventive_cost": 1000,
+      "failure_cost": 0
+    },
+    {
+      "equipment_id": "EQ-005",
+      "equipment_type": "Turbine",
+      "criticality": "Medium",
+      "predicted_rul": 108,
+      "scheduled_day": 4,
+      "status": "\u2705 Scheduled",
+      "preventive_cost": 3000,
+      "failure_cost": 0
+    }
+  ]
+}
