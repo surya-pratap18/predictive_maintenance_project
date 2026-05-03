@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+scipy
+plotly
+torch
+mlflow
+pulp
+prophet
+evidently==0.7.21
+kafka-python
+sqlalchemy
+psycopg2-binary
+optuna
+streamlit
