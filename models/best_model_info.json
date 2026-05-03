@@ -1,0 +1,32 @@
+{
+  "model_name": "LSTM_Large",
+  "hidden_dim": 128,
+  "num_layers": 2,
+  "dropout": 0.3,
+  "input_dim": 18,
+  "seq_len": 30,
+  "test_mae": 42.015071868896484,
+  "test_rmse": 52.65182195773238,
+  "test_r2": -0.7657060623168945,
+  "test_mape": 7392644608.0,
+  "feature_cols": [
+    "setting_1",
+    "setting_2",
+    "setting_3",
+    "sensor_2",
+    "sensor_3",
+    "sensor_4",
+    "sensor_6",
+    "sensor_7",
+    "sensor_8",
+    "sensor_9",
+    "sensor_11",
+    "sensor_12",
+    "sensor_13",
+    "sensor_14",
+    "sensor_15",
+    "sensor_17",
+    "sensor_20",
+    "sensor_21"
+  ]
+}
