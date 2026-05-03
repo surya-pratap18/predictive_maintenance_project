@@ -1,0 +1,197 @@
+{
+  "generated_at": "2026-04-24T10:51:52.753735",
+  "baseline_cost": 29000.0,
+  "downtime_sensitivity": [
+    {
+      "multiplier": 0.25,
+      "total_cost": 29000.0,
+      "failures": 0
+    },
+    {
+      "multiplier": 0.5,
+      "total_cost": 29000.0,
+      "failures": 0
+    },
+    {
+      "multiplier": 0.75,
+      "total_cost": 29000.0,
+      "failures": 0
+    },
+    {
+      "multiplier": 1.0,
+      "total_cost": 29000.0,
+      "failures": 0
+    },
+    {
+      "multiplier": 1.5,
+      "total_cost": 29000.0,
+      "failures": 0
+    },
+    {
+      "multiplier": 2.0,
+      "total_cost": 29000.0,
+      "failures": 0
+    },
+    {
+      "multiplier": 3.0,
+      "total_cost": 29000.0,
+      "failures": 0
+    },
+    {
+      "multiplier": 5.0,
+      "total_cost": 29000.0,
+      "failures": 0
+    }
+  ],
+  "technician_sensitivity": [
+    {
+      "technicians": 1,
+      "total_cost": 29000.0,
+      "failures": 0
+    },
+    {
+      "technicians": 2,
+      "total_cost": 29000.0,
+      "failures": 0
+    },
+    {
+      "technicians": 3,
+      "total_cost": 29000.0,
+      "failures": 0
+    },
+    {
+      "technicians": 4,
+      "total_cost": 29000.0,
+      "failures": 0
+    },
+    {
+      "technicians": 5,
+      "total_cost": 29000.0,
+      "failures": 0
+    }
+  ],
+  "horizon_sensitivity": [
+    {
+      "horizon": 7,
+      "total_cost": 29000.0,
+      "failures": 0
+    },
+    {
+      "horizon": 10,
+      "total_cost": 29000.0,
+      "failures": 0
+    },
+    {
+      "horizon": 14,
+      "total_cost": 29000.0,
+      "failures": 0
+    },
+    {
+      "horizon": 21,
+      "total_cost": 29000.0,
+      "failures": 0
+    },
+    {
+      "horizon": 28,
+      "total_cost": 29000.0,
+      "failures": 0
+    }
+  ],
+  "risk_cost_tradeoff": [
+    {
+      "downtime_mult": 0.5,
+      "technicians": 1,
+      "total_cost": 29000.0,
+      "failures": 0
+    },
+    {
+      "downtime_mult": 0.5,
+      "technicians": 2,
+      "total_cost": 29000.0,
+      "failures": 0
+    },
+    {
+      "downtime_mult": 0.5,
+      "technicians": 3,
+      "total_cost": 29000.0,
+      "failures": 0
+    },
+    {
+      "downtime_mult": 0.5,
+      "technicians": 4,
+      "total_cost": 29000.0,
+      "failures": 0
+    },
+    {
+      "downtime_mult": 0.5,
+      "technicians": 5,
+      "total_cost": 29000.0,
+      "failures": 0
+    },
+    {
+      "downtime_mult": 1.0,
+      "technicians": 1,
+      "total_cost": 29000.0,
+      "failures": 0
+    },
+    {
+      "downtime_mult": 1.0,
+      "technicians": 2,
+      "total_cost": 29000.0,
+      "failures": 0
+    },
+    {
+      "downtime_mult": 1.0,
+      "technicians": 3,
+      "total_cost": 29000.0,
+      "failures": 0
+    },
+    {
+      "downtime_mult": 1.0,
+      "technicians": 4,
+      "total_cost": 29000.0,
+      "failures": 0
+    },
+    {
+      "downtime_mult": 1.0,
+      "technicians": 5,
+      "total_cost": 29000.0,
+      "failures": 0
+    },
+    {
+      "downtime_mult": 2.0,
+      "technicians": 1,
+      "total_cost": 29000.0,
+      "failures": 0
+    },
+    {
+      "downtime_mult": 2.0,
+      "technicians": 2,
+      "total_cost": 29000.0,
+      "failures": 0
+    },
+    {
+      "downtime_mult": 2.0,
+      "technicians": 3,
+      "total_cost": 29000.0,
+      "failures": 0
+    },
+    {
+      "downtime_mult": 2.0,
+      "technicians": 4,
+      "total_cost": 29000.0,
+      "failures": 0
+    },
+    {
+      "downtime_mult": 2.0,
+      "technicians": 5,
+      "total_cost": 29000.0,
+      "failures": 0
+    }
+  ],
+  "recommendations": {
+    "optimal_technicians": 1,
+    "optimal_horizon": 7,
+    "min_cost": 29000.0
+  }
+}

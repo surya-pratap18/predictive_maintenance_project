@@ -1,0 +1,49 @@
+{
+  "generated_at": "2026-05-03T17:53:29.411802",
+  "duration_sec": 10,
+  "passed": 6,
+  "total": 6,
+  "results": [
+    {
+      "test": "data_loading",
+      "avg_ms": 923.77,
+      "min_ms": 801.64,
+      "max_ms": 1000.33,
+      "passed": true
+    },
+    {
+      "test": "inference",
+      "single_avg_ms": 5.44,
+      "batch_avg_ms": 50.32,
+      "throughput_rps": 184.0,
+      "passed": true
+    },
+    {
+      "test": "feature_engineering",
+      "time_ms": 451.51,
+      "n_features": 65,
+      "passed": true
+    },
+    {
+      "test": "concurrent",
+      "n_concurrent": 5,
+      "total_ms": 143.67,
+      "avg_ms": 14.15,
+      "max_ms": 14.83,
+      "passed": true
+    },
+    {
+      "test": "drift_detection",
+      "n_sensors": 15,
+      "drifted_sensors": 14,
+      "time_ms": 274.31,
+      "passed": true
+    },
+    {
+      "test": "scheduler",
+      "time_ms": 141.59,
+      "lp_status": "Optimal",
+      "passed": true
+    }
+  ]
+}

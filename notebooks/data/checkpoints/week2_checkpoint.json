@@ -1,0 +1,44 @@
+{
+  "week": 2,
+  "completed_at": "2026-04-24T14:18:56.178152",
+  "days_completed": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "model_metrics": {
+    "mae": 62.96139907836914,
+    "mape": 190694544.0,
+    "r2": -2.5253329277038574
+  },
+  "files_generated": [
+    "data/processed/X_train.npy",
+    "data/processed/X_test.npy",
+    "models/best_rul_model.pth",
+    "models/best_model_info.json",
+    "data/schedules/optimal_schedule.json",
+    "data/schedules/sensitivity_report.json",
+    "notebooks/week2_summary_dashboard.png"
+  ],
+  "next_week": {
+    "focus": "Dashboard & Monitoring",
+    "days": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "tools": [
+      "Streamlit",
+      "Plotly",
+      "Evidently AI"
+    ]
+  }
+}
