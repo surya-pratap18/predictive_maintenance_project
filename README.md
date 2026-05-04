@@ -41,7 +41,9 @@ Create/replace your `README.md` with this:
 
 ](LICENSE)
 
-### 🌐 [Live Demo](https://logicveda-predictive-maintenance-project.streamlit.app) | 📊 [Project Report](#) | 🎥 [Demo Video](#)
+### 🌐 [Live Demo](https://logicveda-predictive-maintenance-project.streamlit.app) |
+ 📊 [Project Report](https://drive.google.com/file/d/138vu0tKhtpmJKP1F9CRy9JtWZMx-nYb-/view?usp=drivesdk) |
+ 🎥 [Demo Video](https://www.loom.com/share/6a3ac05c369a47a9bff10126bc0126f6)
 
 </div>
 
